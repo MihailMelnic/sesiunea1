@@ -13,6 +13,7 @@ public class Main {
         boolean isAvailable2 = false;
         char nutriScore2 = 'A';
         boolean isBio2  = true;
+        int test;
 
         double totalPrice = price + price2;
         double mediumPrice = totalPrice/2;
